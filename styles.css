@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+body {
+  background: rgb(25, 132, 125);
+}
+p {
+  color: #121212;
+}
+h1
+{
+  color: aqua;
+  font-weight: bolder;
+}
+
+{
+  text-align:justify;
+}
+
+{
+  text-decoration: line-through;
+}
+
+{
+  font-size:12px;
+}
+h2
+{
+color: aqua;
